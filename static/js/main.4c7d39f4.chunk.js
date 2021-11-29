@@ -1,0 +1,2 @@
+(this["webpackJsonpdeployment-test"]=this["webpackJsonpdeployment-test"]||[]).push([[0],[function(t,s,e){"use strict";e.r(s);var a="production",o={baseURL:"http://localhost:3000"};switch(a.toUpperCase()){case"STAGE":o.baseURL="http;//stage.localhost/";break;case"PRODUCTION":o.baseURL="http;//localhost.com/"}s.default=o}],[[0,1]]]);
+//# sourceMappingURL=main.4c7d39f4.chunk.js.map
